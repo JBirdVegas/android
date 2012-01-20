@@ -9,7 +9,7 @@
            revision="master" />
            
   <remote  name="Treken"
-           fetch="git@github.com:Treken"
+           fetch="git://github.com/Treken/"
            revision="master" />
       
   <default revision="master"
