@@ -257,7 +257,6 @@
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
-  <project path="system/su" name="CyanogenMod/android_system_su" remote="gh" revision="ics" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="vendor/samsung" name="vendor_samsung" remote="Treken" revision="master" />
 
