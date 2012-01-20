@@ -11,11 +11,7 @@
   <remote  name="Treken"
            fetch="git://github.com/Treken/"
            revision="master" />
-           
-  <remote  name="cm"
-           fetch="git://github.com/CyanogenMod/"
-           revision="ics" />
-
+      
   <default revision="refs/tags/android-4.0.3_r1"
            remote="aosp"
            sync-j="4" />
